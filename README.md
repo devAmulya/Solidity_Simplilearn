@@ -1,1 +1,1 @@
-# Solidtity_Simplilearn
+BlockChain Developer Course from Simplilearn
